@@ -83,3 +83,7 @@ library
 ### Conclusion:
 
 The Library Management System was successfully created using MySQL. This project helps manage books, customers, employees, and library transactions efficiently. It also demonstrates the use of database concepts such as tables, primary keys, foreign keys, joins, and SQL queries.
+
+### Project Report:
+Project screenshots and outputs can be viewed here:
+https://drive.google.com/file/d/1P8MBWve3o0p9PUalbpBVmS3EjxwwebCc/view?usp=sharing
